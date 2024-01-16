@@ -15,24 +15,24 @@ ul {
 .page-nav {
 color: #2E2F42;
 font-weight: 500;
-line-height: 24px;
+line-height: 1.17;
 letter-spacing: 0.32px;
 }
 
 .logo {
     color: #4D5AE5;
-    font-family: Raleway;
+    font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 21px;
+    line-height: 1.17;
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
 
 .logo-part {
     color: #2E2F42;
-    font-family: Raleway;
+    font-family:'Raleway', sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
@@ -90,23 +90,26 @@ letter-spacing: 0.32px;
 
 .hero-header {
     color: #FFF;
-    text-align: center;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     font-size: 56px;
     font-weight: 700;
-    line-height: 60px;
+    line-height: 1.07;
     letter-spacing: 1.12px;
 }
 
 .order-button {
     cursor: pointer;
-    border-radius: 4px;
     background: #4D5AE5;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     color: #FFF;
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.64px;
+}
+
+.order-button:hover,
+.order-button:focus {
+    background: #404BBF;
 }
 
 .section-benefits {
@@ -133,17 +136,19 @@ letter-spacing: 0.32px;
 
 .section-header {
     color: #2E2F42;
-    text-align: center;
     font-size: 36px;
     font-weight: 700;
-    line-height: 40px;
+    line-height: 1.11;
     letter-spacing: 0.72px;
     text-transform: capitalize;
 }
 
+.team-list-field {
+    background: #FFF;
+}
+
 .team-list {
     color: #2E2F42;
-    text-align: center;
     font-size: 20px;
     font-weight: 500;
     line-height: 24px;
@@ -152,7 +157,6 @@ letter-spacing: 0.32px;
 
 .team-list-item {
     color: #434455;
-    text-align: center;
     line-height: 24px;
     letter-spacing: 0.32px;
 }
@@ -164,16 +168,22 @@ letter-spacing: 0.32px;
 .page-footer {
     background: #2E2F42;
     color: #F4F4FD;
-    line-height: 24px;
+    line-height: 1.11;
     letter-spacing: 0.32px;
 }
 
 .logo-part-footer {
     color: #F4F4FD;
-    font-family: Raleway;
+    font-family:'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 21px;
+    line-height: 1.17;
     letter-spacing: 0.54px;
     text-transform: uppercase;
+}
+
+.footer-description {
+    color: #F4F4FD;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
