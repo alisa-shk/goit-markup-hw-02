@@ -136,6 +136,7 @@ letter-spacing: 0.32px;
 
 .section-header {
     color: #2E2F42;
+    text-align: center;
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
@@ -161,10 +162,6 @@ letter-spacing: 0.32px;
     letter-spacing: 0.32px;
 }
 
-.section-portfolio {
-
-}
-
 .page-footer {
     background: #2E2F42;
     color: #F4F4FD;
@@ -185,5 +182,5 @@ letter-spacing: 0.32px;
 .footer-description {
     color: #F4F4FD;
     line-height: 1.5;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.32px;
 }
