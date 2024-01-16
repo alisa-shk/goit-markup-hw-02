@@ -90,6 +90,7 @@ letter-spacing: 0.32px;
 
 .hero-header {
     color: #FFF;
+    text-align: center;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     font-size: 56px;
     font-weight: 700;
@@ -179,7 +180,7 @@ letter-spacing: 0.32px;
     text-transform: uppercase;
 }
 
-.footer-description {
+.footer-descr {
     color: #F4F4FD;
     line-height: 1.5;
     letter-spacing: 0.32px;
