@@ -92,8 +92,6 @@ letter-spacing: 0.03em;
 .hero-header {
     color: #FFF;
     text-align: center;
-    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
     letter-spacing: 0.02em;
@@ -102,7 +100,6 @@ letter-spacing: 0.03em;
 .order-button {
     cursor: pointer;
     background: #4D5AE5;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     color: #FFF;
     font-weight: 500;
     line-height: 1.5;
