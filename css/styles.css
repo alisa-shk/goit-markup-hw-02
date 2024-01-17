@@ -16,7 +16,7 @@ ul {
 color: #2E2F42;
 font-weight: 500;
 line-height: 1.17;
-letter-spacing: 0.32px;
+letter-spacing: 0.03em;
 }
 
 .logo {
@@ -26,7 +26,7 @@ letter-spacing: 0.32px;
     font-style: normal;
     font-weight: 700;
     line-height: 1.17;
-    letter-spacing: 0.54px;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 
@@ -36,8 +36,8 @@ letter-spacing: 0.32px;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 21px;
-    letter-spacing: 0.54px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 
@@ -45,8 +45,8 @@ letter-spacing: 0.32px;
     color: #2E2F42;
     font-style: normal;
     font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.32px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .page-nav .nav-link:hover,
@@ -54,8 +54,8 @@ letter-spacing: 0.32px;
     color: #404BBF;
     font-style: normal;
     font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.32px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 
@@ -63,16 +63,16 @@ letter-spacing: 0.32px;
     color: #434455;
     font-style: normal;
     font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.32px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .contacts-link {
     color: #434455;
     font-style: normal;
     font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.32px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .header-contacts .contacts-link:hover,
@@ -80,12 +80,13 @@ letter-spacing: 0.32px;
     color:#404BBF;
     font-style: normal;
     font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.32px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .section-hero {
     background: #2E2F42;
+    text-align: center;
 }
 
 .hero-header {
@@ -95,7 +96,7 @@ letter-spacing: 0.32px;
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
-    letter-spacing: 1.12px;
+    letter-spacing: 0.02em;
 }
 
 .order-button {
@@ -104,8 +105,8 @@ letter-spacing: 0.32px;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     color: #FFF;
     font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.64px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
 }
 
 .order-button:hover,
@@ -121,13 +122,13 @@ letter-spacing: 0.32px;
     color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.4px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 
 .benefits-list-item {
-    line-height: 24px;
-    letter-spacing: 0.32px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .section-team {
@@ -141,7 +142,7 @@ letter-spacing: 0.32px;
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
-    letter-spacing: 0.72px;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
 }
 
@@ -154,20 +155,17 @@ letter-spacing: 0.32px;
     font-size: 20px;
     font-weight: 500;
     line-height: 24px;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
 }
 
 .team-list-item {
     color: #434455;
     line-height: 24px;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 .page-footer {
     background: #2E2F42;
-    color: #F4F4FD;
-    line-height: 1.11;
-    letter-spacing: 0.32px;
 }
 
 .logo-part-footer {
@@ -176,12 +174,12 @@ letter-spacing: 0.32px;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
-    letter-spacing: 0.54px;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 
 .footer-descr {
     color: #F4F4FD;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
